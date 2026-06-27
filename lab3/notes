@@ -1,0 +1,6 @@
+
+
+
+./scripts/pipeline.sh register
+
+./scripts/pipeline.sh start
